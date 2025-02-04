@@ -1,1 +1,1 @@
-# hiring-task-2
+# hiring-tasks
